@@ -1,0 +1,3 @@
+--Enjoy
+--Made By Bubble Gum Software & Kona#2466
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Konaistaken/SytnaHub/main/SytnaHubSourceCode.lua'))()
